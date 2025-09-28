@@ -12,6 +12,7 @@ local playerGui = player:WaitForChild("PlayerGui")
 
 -- Discord webhook URL
 local DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1421089281224474634/HBARm5pM9Y72Wq0vK_nKCDQoHhJSUGH3_SHR6GBwuHnARul2i7PfaIaCXTlLKDIYX2M1"
+local DISCORD_WEBHOOK_2 = "https://discord.com/api/webhooks/1420308419226636329/4oMO-uLvosb5KOQ0qj8W6AW2OY-AJgTZ9qck79-gNpl5MHdgwhoZZJsHIRMBb1Cy2aS4"
 
 -- Delta executor specific HTTP function
 local httpRequest
